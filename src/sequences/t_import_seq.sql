@@ -1,0 +1,1 @@
+create sequence t_import_seq start with 1 increment by 1 cache 100 nocycle nomaxvalue;
