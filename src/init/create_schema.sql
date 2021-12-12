@@ -12,3 +12,4 @@ create user importer identified by importer;
 grant unlimited tablespace to importer;
 grant create session to importer;
 grant create procedure to importer;
+grant create job to importer;
